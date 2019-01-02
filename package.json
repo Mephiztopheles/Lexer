@@ -1,10 +1,12 @@
 {
-    "name": "lexer",
-    "version": "1.0.0",
-    "main": "Lexer.js",
-    "repository": {
+    "name"        : "@mephizopheles/lexer",
+    "version"     : "1.0.0",
+    "main"        : "Lexer.js",
+    "description" : "Lexer for AST",
+    "repository"  : {
         "type": "git",
-        "url": "git+https://github.com/Mephiztopheles/Lexer.git"
+        "url" : "git+https://github.com/Mephiztopheles/Lexer.git"
     },
-    "license": "MIT"
+    "dependencies": {},
+    "license"     : "MIT"
 }
