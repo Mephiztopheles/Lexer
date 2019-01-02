@@ -1,0 +1,10 @@
+{
+    "name": "lexer",
+    "version": "1.0.0",
+    "main": "Lexer.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mephiztopheles/Lexer.git"
+    },
+    "license": "MIT"
+}
