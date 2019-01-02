@@ -1,5 +1,5 @@
 {
-    "name"        : "@mephizopheles/lexer",
+    "name"        : "@mephiztopheles/lexer",
     "version"     : "1.0.0",
     "main"        : "Lexer.js",
     "description" : "Lexer for AST",
